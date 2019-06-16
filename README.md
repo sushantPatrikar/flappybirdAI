@@ -20,4 +20,4 @@
 					<li><h5>vertical distance from ground</h5></li>
 				</ol>
         
-For detailed explanation, visit my <a src="https://sushantpatrikar.github.io/flappybirdAI.html">website</a>.
+For detailed explanation, visit my <a href="https://sushantpatrikar.github.io/flappybirdAI.html"> website</a>.
