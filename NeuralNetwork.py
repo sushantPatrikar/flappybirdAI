@@ -44,7 +44,7 @@ class NeuralNetwork():
         for i in range(mat.shape[0]):
             if rate > (random.uniform(0, 1)):
                 for j in range(mat.shape[1]):
-                    mat[i][j] += random.uniform(-1, 1)
+                    mat[i][j] += random.uniform(-0.1, 0.1)
 
     def serialize(self):
         return pickle.dumps(self)
