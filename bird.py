@@ -1,11 +1,8 @@
 import math
-
 import pygame
-
 import numpy as np
 
-from NeuralNetwork import NeuralNetwork
-
+from neuralnetwork import NeuralNetwork
 
 class Bird:
     def __init__(self, game):
@@ -24,7 +21,7 @@ class Bird:
 
     def showBird(self):
         from game import Game
-        pygame.draw.circle(Game.gameDisplay, Game.black, (self.x, self.y), self.radius)
+        pygame.draw.circle(Game.gameDisplay, Game.birdColour, (self.x, self.y), self.radius)
 
     def collidingWall(self):
         from game import Game

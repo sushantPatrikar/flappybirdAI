@@ -3,7 +3,6 @@ import math
 import random
 import pickle
 
-
 class NeuralNetwork():
     def __init__(self, input_nodes, hidden_nodes1, output_nodes):
         self.input_nodes = input_nodes
