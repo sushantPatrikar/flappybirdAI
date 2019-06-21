@@ -2,12 +2,11 @@ import random
 
 from bird import Bird
 
-
 class GA:
     def __init__(self, game):
         self.game = game
 
-    def nextGenration(self):
+    def nextGeneration(self):
         self.calculateFitness()
         if (self.game.foundBestBird):
             child = Bird(self.game)
