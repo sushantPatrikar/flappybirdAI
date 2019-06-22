@@ -37,14 +37,14 @@ class GA:
         bird1 = self.game.savedBirds[index]
 
         r2 = random.uniform(0, 1)
-        index2 = 0
+        index_2 = 0
 
         while r2 > 0:
-            r2 -= self.game.savedBirds[index2].fitness
-            index2 += 1
-        index2 -= 1
+            r2 -= self.game.savedBirds[index_2].fitness
+            index_2 += 1
+        index_2 -= 1
 
-        bird2 = self.game.savedBirds[index2]
+        bird2 = self.game.savedBirds[index_2]
 
         child = Bird(self.game)
 
