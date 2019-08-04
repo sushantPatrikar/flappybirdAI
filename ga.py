@@ -19,12 +19,12 @@ class GA:
         self.game.savedBirds = []
 
     def calculateFitness(self):
-        sum = 0
+        summ = 0
         for bird in self.game.savedBirds:
             bird.calculateFitness()
-            sum += bird.fitness
+            summ += bird.fitness
         for bird in self.game.savedBirds:
-            bird.fitness /= sum
+            bird.fitness /= summ
 
     def pickOne(self):
         r1 = random.uniform(0, 1)
