@@ -13,7 +13,6 @@
 <img src="https://img.shields.io/github/forks/sushantPatrikar/flappybirdAI">
 <img src="https://img.shields.io/github/issues/sushantPatrikar/flappybirdAI">
 <img src="https://img.shields.io/badge/PRs-welcome-informational">
-
 </div>
 
 <h4 align="center">Flappy Bird game, but AI plays it</h4>
