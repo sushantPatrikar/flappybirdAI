@@ -35,7 +35,7 @@
 					<li><h5>vertical distance from sky</h5></li>
 					<li><h5>vertical distance from ground</h5></li>
 				</ol>
-<p>For detailed explanation, visit my <a href="https://sushantpatrikar.github.io/flappybirdAI.html"> website</a>.</p>
+<p>For detailed explanation, you can visit my <a href="https://sushantpatrikar.github.io/flappybirdAI.html"> website</a>.</p>
 <h2>Future Scope</h2>
 <p>Right now, the algorithm used is NEAT. Some other Reinforcement Learning algorithm, such as Deep Q-Learning can be applied to it. If you have any other ideas, Pull Requests are welcomed!</p>
         
