@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/github/stars/sushantPatrikar/flappybirdAI">
 <img src="https://img.shields.io/github/forks/sushantPatrikar/flappybirdAI">
 <img src="https://img.shields.io/github/issues/sushantPatrikar/flappybirdAI">
+<img src="https://img.shields.io/badge/PRs-welcome-informational">
 
 </div>
 
