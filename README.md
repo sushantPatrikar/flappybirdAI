@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img height=200px src="./img/flappybird.jpg" alt="FlappyBird-logo"></a>
+ <img height=150px src="./img/flappybird.jpg" alt="FlappyBird-logo"></a>
 </p>
 <h1 align="center">flappybirdAI</h1>
 
