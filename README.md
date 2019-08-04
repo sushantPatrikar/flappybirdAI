@@ -16,6 +16,8 @@
 
 <h4 align="center">Flappy Bird game, but AI plays it</h4>
 
+<hr>
+
 <p align="center">
 <img src = "./img/fb.gif" height=400 width=600>
 </p>
