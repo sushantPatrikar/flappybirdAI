@@ -1,5 +1,12 @@
 <h1 align="center">flappybirdAI</h1>
 
+
+<div align="center">
+	
+<img src="https://www.codefactor.io/repository/github/sushantpatrikar/flappybirdai/badge/master"/>
+
+</div>
+
 <h4 align="center">Flappy Bird game, but AI plays it</h4>
 
 <p align="center">
