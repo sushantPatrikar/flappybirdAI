@@ -1,9 +1,14 @@
+<p align="center">
+  <a href="" rel="noopener">
+ <img height=200px src="./img/flappybird.jpg" alt="FlappyBird-logo"></a>
+</p>
 <h1 align="center">flappybirdAI</h1>
 
 
 <div align="center">
 	
 <img src="https://www.codefactor.io/repository/github/sushantpatrikar/flappybirdai/badge/master"/>
+<img src="https://img.shields.io/github/license/sushantPatrikar/flappybirdAI">
 
 </div>
 
