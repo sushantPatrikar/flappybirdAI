@@ -23,7 +23,7 @@
 </p>
 
 <p>There are 8 inputs to neural network</p>
-
+<h2> How it works</h2>
 <img src="./img/fbex.jpg" align="right">
 <ol>
 					<li><h5>horizontal distance from the start of pipe</h5></li>
