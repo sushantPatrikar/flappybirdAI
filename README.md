@@ -6,9 +6,11 @@
 
 
 <div align="center">
-	
+<img src="https://img.shields.io/github/license/sushantPatrikar/flappybirdAI">	
 <img src="https://www.codefactor.io/repository/github/sushantpatrikar/flappybirdai/badge/master"/>
-<img src="https://img.shields.io/github/license/sushantPatrikar/flappybirdAI">
+<img src="https://img.shields.io/github/stars/sushantPatrikar/flappybirdAI">
+<img src="https://img.shields.io/github/forks/sushantPatrikar/flappybirdAI">
+<img src="https://img.shields.io/github/issues/sushantPatrikar/flappybirdAI">
 
 </div>
 
